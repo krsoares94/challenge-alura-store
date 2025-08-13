@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="badge.png" alt="Badge do Projeto" width="300"/>
-</p>
-
 # 📊 Análise de Dados - Alura Store
 
 [![Python](https://img.shields.io/badge/Python-3.10+-blue?logo=python)](https://www.python.org/)
